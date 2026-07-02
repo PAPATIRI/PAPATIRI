@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Syarif 👋
+# Hi, I'm Syarif 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-time+Web+%26+Mobile+Developer;Laravel+%2B+Next.js+%2B+React+Native;Sintang+Kalimantan+Barat%2C+Indonesia" alt="Typing SVG" />
 
@@ -46,7 +46,7 @@ nothing special, just chilling & live my life
 ---
 
 ### What I'm into right now?
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
